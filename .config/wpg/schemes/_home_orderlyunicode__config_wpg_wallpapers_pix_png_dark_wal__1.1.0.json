@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/orderlyunicode/.config/wpg/wallpapers/pix.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090B05",
+        "foreground": "#f4f8eb",
+        "cursor": "#f4f8eb"
+    },
+    "colors": {
+        "color0": "#090B05",
+        "color1": "#8D675D",
+        "color2": "#606A54",
+        "color3": "#76856E",
+        "color4": "#51554D",
+        "color5": "#4A5035",
+        "color6": "#6F726C",
+        "color7": "#b8bbb1",
+        "color8": "#252e13",
+        "color9": "#c67d69",
+        "color10": "#7d9660",
+        "color11": "#94bc7f",
+        "color12": "#697859",
+        "color13": "#64703c",
+        "color14": "#90a27e",
+        "color15": "#f4f8eb"
+    }
+}

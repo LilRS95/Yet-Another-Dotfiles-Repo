@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/orderlyunicode/.config/wpg/wallpapers/2MIS8mV.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#000000",
+        "foreground": "#fffafa",
+        "cursor": "#fffafa"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#D21D26",
+        "color2": "#D4D4D4",
+        "color3": "#BE585C",
+        "color4": "#960c12",
+        "color5": "#B87E86",
+        "color6": "#ADA1A1",
+        "color7": "#ebe2e2",
+        "color8": "#191919",
+        "color9": "#ff1623",
+        "color10": "#ffe5e5",
+        "color11": "#ff6066",
+        "color12": "#cd040d",
+        "color13": "#ff8f9f",
+        "color14": "#f6bbbb",
+        "color15": "#fffafa"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/orderlyunicode/.config/wpg/wallpapers/Vaporwave_Goddesses_Temple.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161114",
+        "foreground": "#ffe9f7",
+        "cursor": "#ffe9f7"
+    },
+    "colors": {
+        "color0": "#161114",
+        "color1": "#664D59",
+        "color2": "#675B69",
+        "color3": "#896576",
+        "color4": "#584658",
+        "color5": "#996B8F",
+        "color6": "#6C5865",
+        "color7": "#d8b6c1",
+        "color8": "#32262d",
+        "color9": "#905873",
+        "color10": "#8e6995",
+        "color11": "#c17398",
+        "color12": "#7c507c",
+        "color13": "#d77ac3",
+        "color14": "#996587",
+        "color15": "#ffe9f7"
+    }
+}

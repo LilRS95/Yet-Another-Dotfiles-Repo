@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/orderlyunicode/.config/wpg/wallpapers/TransScheme.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#101212",
+        "foreground": "#fdffff",
+        "cursor": "#fdffff"
+    },
+    "colors": {
+        "color0": "#101212",
+        "color1": "#DE9EA7",
+        "color2": "#8BA6A8",
+        "color3": "#5DA4AE",
+        "color4": "#477683",
+        "color5": "#2298A3",
+        "color6": "#ADADAD",
+        "color7": "#d5d8d8",
+        "color8": "#8f5c6c",
+        "color9": "#ffb4c7",
+        "color10": "#a0e8ee",
+        "color11": "#67e2f3",
+        "color12": "#4fa0b7",
+        "color13": "#1fd0e0",
+        "color14": "#f7caca",
+        "color15": "#fdffff"
+    }
+}
