@@ -8,7 +8,7 @@
 alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
 
-PATH=$PATH:/home/orderlyunicode/.local/bin
+PATH=$PATH:/home/redacted/.local/bin
 
 
 # BEGIN_KITTY_SHELL_INTEGRATION
